@@ -898,10 +898,10 @@ ul{
 	width:100%;
 }
 .cc_main_slide1{
-	background:url('../images/header/job-banner-img2.jpg') 50% 0 repeat-y;
+	background:url('../images/header/carer.jpg') 50% 0 repeat-y;
 	width:100%;
 	height:100%;
-	background-size:cover;
+	background-size:100%;
 	background-position:center 0;
 	position:relative;
 	padding-top:150px;
@@ -919,7 +919,7 @@ ul{
 	background:url('../images/header/health-jobs.png') 50% 0 repeat-y;
 	width:100%;
 	height:100%;
-	background-size:cover;
+	background-size:contain;
 	background-position:center center;
 	position:relative;
 	padding-top:150px;
