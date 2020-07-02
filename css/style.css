@@ -630,16 +630,17 @@ body, html {
 	}
 	.jp_navi_right_btn_wrapper li {
 	float : left;
-	margin-left : 20px;
+	margin-left : 10px;
 	}
 	.jp_navi_right_btn_wrapper li a {
 	float : left;
-	width : 170px;
+	width : 100px;
 	height : 50px;
-	line-height : 50px;
+	line-height : 15px;
+	padding-top: 8px;
 	color : #ffffff;
 	border : #779939 solid 1px;
-	background : #779939;
+	background : #f29500;
 	text-align : center;
 	text-transform : uppercase;
 	border-radius : 10px;
