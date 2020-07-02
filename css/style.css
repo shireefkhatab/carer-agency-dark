@@ -3,7 +3,7 @@ body, html {
 	font-size : 16px;
 	line-height : 23px;
 	color : #6f7e98;
-	background : #13171e;
+	background : rgba(119, 153, 57, 0.529);;
 	overflow-x : hidden;
 	}
 	#preloader {
@@ -195,7 +195,7 @@ body, html {
 	padding-top : 30px;
 	border-bottom : 1px solid #282d39;
 	position : relative;
-	background : #1a1e27;
+	background : #374420;
 	}
 	.jp_slide_img_overlay {
 	position : absolute;
@@ -729,7 +729,7 @@ body, html {
 	left : 0%;
 	right : 0%;
 	bottom : 0%;
-	background : rgb(14, 20, 39, 0.8313725490196079);
+	background : rgba(109, 119, 92, 0.678);
 	}
 	.cc_slider_img_section .owl-theme .owl-dots {
 	display : none;
@@ -979,7 +979,7 @@ body, html {
 	float : left;
 	width : 100%;
 	text-align : center;
-	background : #1a1e27;
+	background : #374420;
 	padding-top : 30px;
 	padding-bottom : 30px;
 	border : #282d39 solid 1px;
@@ -1107,7 +1107,7 @@ body, html {
 	top : 48px;
 	position : absolute;
 	text-align : center;
-	background : #1a1e27;
+	background : #374420;
 	color : #ffffff;
 	border : #282d39 solid 1px;
 	width : 60px;
@@ -1125,7 +1125,7 @@ body, html {
 	top : 48px;
 	position : absolute;
 	text-align : center;
-	background : #1a1e27;
+	background : #374420;
 	color : #ffffff;
 	border : #282d39 solid 1px;
 	width : 60px;
@@ -1169,14 +1169,14 @@ body, html {
 	line-height : 25px;
 	border-radius : 10px;
 	border : #282d39 solid 2px;
-	background : #1a1e27;
+	background : #374420;
 	color : #ffffff;
 	}
 	.nav-tabs > li > a {
 	text-transform : uppercase;
 	font-weight : bold;
 	color : #ffffff;
-	background : #1a1e27;
+	background : #374420;
 	font-size : 14px;
 	font-family : 'Lato', sans-serif;
 	padding-bottom : 13px;
@@ -1431,7 +1431,7 @@ body, html {
 	bottom : 0%;
 	left : 0%;
 	right : 0%;
-	background : #0e1427d9;
+	background :  rgba(109, 119, 92, 0.678);;
 	}
 	.jp_hiring_slider_heading_wrapper h2 {
 	font-size : 20px;
@@ -1505,7 +1505,7 @@ body, html {
 	.jp_hiring_content_main_wrapper {
 	float : left;
 	width : 100%;
-	background : #1a1e27;
+	background : #374420;
 	border : #282d39 solid 1px;
 	border-bottom : 2px solid #f29500;
 	text-align : center;
@@ -1599,7 +1599,7 @@ body, html {
 	float : left;
 	width : 50%;
 	text-align : center;
-	background : #1a1e27;
+	background : #374420;
 	border : #282d39 solid 1px;
 	border-bottom : 1px solid #f29500;
 	border-right : 0;
@@ -1665,7 +1665,7 @@ body, html {
 	width : 50%;
 	padding-top : 170px;
 	padding-bottom : 170px;
-	background : url("../images/content/condi_bg.jpg") 50% 0 repeat-y;
+	background : url("../images/content/job-vacancy.jpg") 10% 0 repeat-y;
 	background-repeat : no-repeat;
 	position : relative;
 	text-align : center;
@@ -1676,7 +1676,7 @@ body, html {
 	left : 0%;
 	right : 0%;
 	bottom : 0%;
-	background : rgb(14, 20, 39, 0.8313725490196079);
+	background : rgba(109, 119, 92, 0.678);
 	}
 	.jp_regis_right_side_box {
 	display : inline-block;
@@ -1797,7 +1797,7 @@ body, html {
 	.jp_best_deal_main_cont_wrapper {
 	float : left;
 	width : 100%;
-	background : #1a1e27;
+	background : #374420;
 	padding : 40px;
 	border : #282d39 solid 1px;
 	margin-top : 35px;
@@ -2111,7 +2111,7 @@ body, html {
 	.jp_recent_resume_box_wrapper {
 	float : left;
 	width : 100%;
-	background : #1a1e27;
+	background : #374420;
 	padding : 25px;
 	border : #282d39 solid 1px;
 	border-bottom : 1px solid #f29500;
@@ -2215,7 +2215,7 @@ body, html {
 	bottom : 0%;
 	left : 0%;
 	right : 0%;
-	background : rgb(14, 20, 39, 0.8313725490196079);
+	background : rgba(109, 119, 92, 0.678);
 	}
 	.jp_testi_slider_heading_wrapper {
 	float : left;
@@ -2488,7 +2488,7 @@ body, html {
 	left : 0%;
 	right : 0%;
 	bottom : 0%;
-	background : #0e1427eb;
+	background :  rgba(109, 119, 92, 0.678);;
 	}
 	.jp_newsletter_text {
 	float : left;
@@ -2763,7 +2763,7 @@ body, html {
 	transition : all 0.5s;
 	}
 	.jp_tittle_main_wrapper {
-	background : url("../images/content/pricing_tittle_bg.jpg") 50% 0 repeat-y;
+	background : url("../images/header/care.jpg") 50% 0 repeat-y;
 	background-repeat : no-repeat;
 	background-size : cover;
 	background-position : center 0;
@@ -2779,7 +2779,7 @@ body, html {
 	right : 0%;
 	left : 0%;
 	bottom : 0%;
-	background : rgb(14, 20, 39, 0.8313725490196079);
+	background : rgba(109, 119, 92, 0.678);
 	}
 	.jp_tittle_heading {
 	float : left;
@@ -2865,7 +2865,7 @@ body, html {
 	padding-bottom : 130px;
 	}
 	.pricing_box1_wrapper {
-	background : #1a1e27;
+	background : #374420;
 	position : relative;
 	overflow : hidden;
 	border : #282d39 solid 1px;
@@ -3116,7 +3116,7 @@ body, html {
 	}
 	.jp_pricing_label_wrapper:after {
 	content : '';
-	border-bottom : 20px solid #1a1e27;
+	border-bottom : 20px solid #374420;
 	border-left : 20px solid transparent;
 	border-right : 20px solid transparent;
 	position : absolute;
@@ -3184,7 +3184,7 @@ body, html {
 	border-radius : 10px;
 	padding-left : 45px;
 	position : relative;
-	background : #1a1e27;
+	background : #374420;
 	transition : all 0.5s;
 	}
 	.jp_pricing_inputs_wrapper input:hover, .jp_pricing_inputs_wrapper input:focus {
@@ -3206,7 +3206,7 @@ body, html {
 	padding-left : 45px;
 	appearance : none;
 	position : relative;
-	background : #1a1e27;
+	background : #374420;
 	transition : all 0.5s;
 	}
 	.jp_pricing_select_wrapper select:hover, .jp_pricing_select_wrapper select:focus {
@@ -3313,7 +3313,7 @@ body, html {
 	.jp_map_cont_label {
 	float : left;
 	width : 260px;
-	background : #1a1e27;
+	background : #374420;
 	position : absolute;
 	top : 55%;
 	left : 0;
@@ -3326,7 +3326,7 @@ body, html {
 	content : '';
 	border-left : 15px solid transparent;
 	border-right : 15px solid transparent;
-	border-bottom : 15px solid #1a1e27;
+	border-bottom : 15px solid #374420;
 	position : absolute;
 	left : 113px;
 	top : -15px;
@@ -3395,14 +3395,14 @@ body, html {
 	border : #282d39 solid 1px;
 	border-bottom : 1px solid #f29500;
 	padding : 50px;
-	background : #1a1e27;
+	background : #374420;
 	margin-top : 60px;
 	}
 	.jp_contact_inputs_wrapper input {
 	width : 100%;
 	height : 50px;
 	border : #282d39 solid 1px;
-	background : #1a1e27;
+	background : #374420;
 	border-radius : 10px;
 	padding-left : 45px;
 	position : relative;
@@ -3433,7 +3433,7 @@ body, html {
 	padding-top : 15px;
 	border-radius : 10px;
 	resize : none;
-	background : #1a1e27;
+	background : #374420;
 	border : #282d39 solid 1px;
 	transition : all 0.5s;
 	}
@@ -3610,7 +3610,7 @@ body, html {
 	right : 0%;
 	top : 0%;
 	bottom : 0%;
-	background : #0e1427eb;
+	background :  rgba(109, 119, 92, 0.678);;
 	}
 	.jp_banner_heading_cont_wrapper {
 	float : left;
@@ -3724,7 +3724,7 @@ body, html {
 	.jp_listing_tabs_wrapper {
 	float : left;
 	width : 100%;
-	background : #1a1e27;
+	background : #374420;
 	padding : 25px;
 	margin-top : 60px;
 	border : #282d39 solid 1px;
@@ -3737,7 +3737,7 @@ body, html {
 	width : 100%;
 	height : 50px;
 	border : #282d39 solid 1px;
-	background : #1a1e27;
+	background : #374420;
 	border-radius : 10px;
 	padding-left : 20px;
 	}
@@ -3774,7 +3774,7 @@ body, html {
 	.jp_job_post_main_wrapper {
 	float : left;
 	width : 100%;
-	background : #1a1e27;
+	background : #374420;
 	padding-left : 30px;
 	padding-right : 30px;
 	padding-top : 30px;
@@ -4005,7 +4005,7 @@ body, html {
 	.jp_rightside_job_categories_content {
 	float : left;
 	width : 100%;
-	background : #1a1e27;
+	background : #374420;
 	padding-left : 20px;
 	padding-bottom : 40px;
 	border : #282d39 solid 1px;
@@ -4169,7 +4169,7 @@ body, html {
 	}
 	.pagination > li > a {
 	color : #ffffff;
-	background : #1a1e27;
+	background : #374420;
 	font-size : 12px;
 	text-transform : uppercase;
 	transition : all 0.5s;
@@ -4192,7 +4192,7 @@ body, html {
 	border-radius : 10px;
 	border : #282d39 solid 1px;
 	margin-right : 20px;
-	background : #1a1e27;
+	background : #374420;
 	padding-left : 17px;
 	}
 	.pagination > li:last-child > a {
@@ -4205,7 +4205,7 @@ body, html {
 	border-radius : 10px;
 	border : #282d39 solid 1px;
 	margin-left : 10px;
-	background : #1a1e27;
+	background : #374420;
 	padding-left : 14px;
 	}
 	.pagination > li:first-child:hover > a {
@@ -4237,7 +4237,7 @@ body, html {
 	.jp_listing_left_sidebar_wrapper {
 	float : left;
 	width : 100%;
-	background : #1a1e27;
+	background : #374420;
 	border : #282d39 solid 1px;
 	padding : 60px;
 	}
@@ -4403,7 +4403,7 @@ body, html {
 	width : 100%;
 	border : #282d39 solid 1px;
 	padding : 60px;
-	background : #1a1e27;
+	background : #374420;
 	border-top : 0;
 	padding-top : 50px;
 	padding-bottom : 50px;
@@ -4491,7 +4491,7 @@ body, html {
 	width : 60px;
 	height : 30px;
 	line-height : 30px;
-	background : #1a1e27;
+	background : #374420;
 	margin : 0;
 	padding : 0;
 	right : 75px;
@@ -4516,7 +4516,7 @@ body, html {
 	right : 0;
 	position : absolute;
 	color : #ffffff;
-	background : #1a1e27;
+	background : #374420;
 	border-radius : 10px;
 	border : #282d39 solid 1px;
 	text-align : center;
@@ -4556,7 +4556,7 @@ body, html {
 	}
 	.jp_jop_overview_img_wrapper {
 	text-align : center;
-	background : #1a1e27;
+	background : #374420;
 	border-left : 1px solid #282d39;
 	border-right : 1px solid #282d39;
 	}
@@ -4591,7 +4591,7 @@ body, html {
 	.jp_job_post_right_overview_btn_wrapper {
 	text-align : center;
 	padding-bottom : 50px;
-	background : #1a1e27;
+	background : #374420;
 	border-bottom : 1px solid #282d39;
 	border-left : 1px solid #282d39;
 	border-right : 1px solid #282d39;
@@ -4652,7 +4652,7 @@ body, html {
 	float : left;
 	width : 100%;
 	padding : 50px;
-	background : #1a1e27;
+	background : #374420;
 	border : #282d39 solid 1px;
 	border-top : 0;
 	}
@@ -4739,7 +4739,7 @@ body, html {
 	.jp_first_blog_post_cont_wrapper {
 	float : left;
 	width : 100%;
-	background : #1a1e27;
+	background : #374420;
 	border : #282d39 solid 1px;
 	padding-top : 45px;
 	padding-bottom : 45px;
@@ -4923,7 +4923,7 @@ body, html {
 	float : left;
 	width : 100%;
 	padding : 20px;
-	background : #1a1e27;
+	background : #374420;
 	border : #282d39 solid 1px;
 	}
 	.jp_blog_right_box {
@@ -4936,7 +4936,7 @@ body, html {
 	float : left;
 	width : 45px;
 	height : 50px;
-	background : #1a1e27;
+	background : #374420;
 	border : #282d39 solid 1px;
 	border-left : 0;
 	color : #f29500;
@@ -4946,7 +4946,7 @@ body, html {
 	float : left;
 	width : calc(100% - 45px);
 	height : 50px;
-	background : #1a1e27;
+	background : #374420;
 	border : #282d39 solid 1px;
 	border-right : 0;
 	padding-left : 20px;
@@ -5055,7 +5055,7 @@ body, html {
 	padding-left : 30px;
 	padding-right : 30px;
 	padding-bottom : 40px;
-	background : #1a1e27;
+	background : #374420;
 	border : #282d39 solid 1px;
 	border-top : 0;
 	border-bottom : 1px solid #f29500;
@@ -5180,7 +5180,7 @@ body, html {
 	.jp_rightside_career_main_content {
 	float : left;
 	width : 100%;
-	background : #1a1e27;
+	background : #374420;
 	padding-bottom : 40px;
 	border : #282d39 solid 1px;
 	border-bottom : 1px solid #22c0e9;
@@ -5253,7 +5253,7 @@ body, html {
 	left : 0%;
 	right : 0%;
 	bottom : 0%;
-	background : rgb(14, 20, 39, 0.8313725490196079);
+	background : rgba(109, 119, 92, 0.678);
 	}
 	.jp_add_resume_cont {
 	position : relative;
@@ -5349,7 +5349,7 @@ body, html {
 	padding-bottom : 45px;
 	padding-left : 30px;
 	padding-right : 30px;
-	background : #1a1e27;
+	background : #374420;
 	}
 	.jp_blog_single_bottom_post_cont ul {
 	margin-top : 55px;
@@ -5382,7 +5382,7 @@ body, html {
 	border : #282d39 solid 1px;
 	border-bottom : 1px solid #f29500;
 	padding : 50px;
-	background : #1a1e27;
+	background : #374420;
 	margin-top : 40px;
 	}
 	.jp_blog_single_client_img {
@@ -5454,7 +5454,7 @@ body, html {
 	.jp_blog_single_comment_box_wrapper {
 	float : left;
 	width : 100%;
-	background : #1a1e27;
+	background : #374420;
 	border : #282d39 solid 1px;
 	border-bottom : 1px solid #f29500;
 	padding : 50px;
@@ -5685,7 +5685,7 @@ body, html {
 	.login_wrapper {
 	float : left;
 	width : 100%;
-	background : #1a1e27;
+	background : #374420;
 	border : #282d39 solid 1px;
 	border-bottom : 1px solid #f29500;
 	padding : 50px;
@@ -5759,7 +5759,7 @@ body, html {
 	border-radius : 8px;
 	box-shadow : none;
 	transition : all 0.3s 0s ease;
-	background-color : #1a1e27;
+	background-color : #374420;
 	}
 	.login_wrapper textarea.form-control {
 	height : auto;
@@ -5909,7 +5909,7 @@ body, html {
 	padding : 15px 30px;
 	border : 0;
 	border-radius : 0;
-	background-color : #1a1e27;
+	background-color : #374420;
 	border : #282d39 solid 1px;
 	border-bottom : 0;
 	color : #6f7e98;
@@ -5932,7 +5932,7 @@ body, html {
 	border : 0;
 	}
 	.register_tab_wrapper .tab-content {
-	background-color : #1a1e27;
+	background-color : #374420;
 	padding : 30px;
 	float : left;
 	border : #282d39 solid 1px;
@@ -5970,7 +5970,7 @@ body, html {
 	position : relative;
 	display : block;
 	width : 100%;
-	background : #1a1e27;
+	background : #374420;
 	text-transform : capitalize;
 	font-size : 15px;
 	line-height : 26px;
@@ -6041,7 +6041,7 @@ body, html {
 	.jp_cs_com_info_wrapper {
 	float : left;
 	width : 100%;
-	background : #13171e;
+	background : rgba(119, 153, 57, 0.529);
 	padding : 20px;
 	margin-top : 25px;
 	}
@@ -6085,8 +6085,8 @@ body, html {
 	width : 100%;
 	height : 50px;
 	padding-left : 20px;
-	border : #1a1e27 solid 1px;
-	background : #1a1e27;
+	border : #374420 solid 1px;
+	background : #374420;
 	border-radius : 10px;
 	}
 	.jp_adp_form_wrapper input:hover, .jp_adp_form_wrapper input:focus {
@@ -6132,8 +6132,8 @@ body, html {
 	}
 	.jp_adp_textarea_main_wrapper textarea {
 	width : 100%;
-	border : #1a1e27 solid 1px;
-	background : #1a1e27;
+	border : #374420 solid 1px;
+	background : #374420;
 	padding-left : 20px;
 	padding-top : 20px;
 	border-radius : 10px;
@@ -6896,7 +6896,7 @@ body, html {
 	right : 0;
 	}
 	.dropdown-menu {
-	background : #13171e;
+	background : rgba(119, 153, 57, 0.529);;
 	}
 	.dropdown-menu a {
 	color : #fff;
