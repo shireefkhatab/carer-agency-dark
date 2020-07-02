@@ -6158,7 +6158,7 @@ body, html {
 	height : 50px;
 	width : 250px;
 	padding : 10px;
-	background-color : #f53157;
+	background-color : #f29500;
 	font-size : 18px;
 	font-weight : 700;
 	line-height : 30px;
@@ -6543,7 +6543,7 @@ body, html {
 	transition : all 0.5s;
 	}
 	.jp_cp_rd_wrapper li:first-child a:hover {
-	background : #f53157;
+	background : #f29500;
 	transition : all 0.5s;
 	}
 	.jp_cp_rd_wrapper li:last-child a {
@@ -6553,7 +6553,7 @@ body, html {
 	margin-top : 20px;
 	text-align : center;
 	line-height : 50px;
-	background : #f53157;
+	background : #f29500;
 	border-radius : 10px;
 	color : #ffffff;
 	font-size : 18px;
