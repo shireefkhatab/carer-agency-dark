@@ -3999,8 +3999,12 @@ body, html {
 	border-top-right-radius : 10px;
 	}
 	.jp_rightside_job_categories_heading h2 {
-	color : #ffffff !important;
-	text-align: center !important;
+	color : #ffffff;
+	text-align: center;
+	}
+	body > div.jp_listing_single_main_wrapper > div > div:nth-child(1) > div > div > div.jp_rightside_job_categories_heading h2 {
+		color : #ffffff;
+		text-align: center;
 	}
 	.jp_rightside_job_categories_content {
 	float : left;
